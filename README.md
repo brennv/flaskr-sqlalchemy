@@ -8,7 +8,7 @@
 
     ~ What is flaskr-sqlalchemy?
 
-      A sqlalchemy powered thumble blog application
+      An sqlalchemy powered thumble blog application
 
     ~ How do I use it?
 
