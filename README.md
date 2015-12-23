@@ -38,8 +38,8 @@
 
     ~ Attributions:
 
-[mitsuhiko/flask/examples/flaskr](https://github.com/mitsuhiko/flask/tree/master/examples/flaskr/)
+[mitsuhiko/flask/examples/flaskr](https://github.com/mitsuhiko/flask/tree/master/examples/flaskr/) [![GitHub stars](https://img.shields.io/github/stars/mitsuhiko/flask.svg?style=social&label=Star)](https://github.com/mitsuhiko/flask)
       
-[mitsuhiko/flask-sqlalchemy](https://github.com/mitsuhiko/flask-sqlalchemy)
+[mitsuhiko/flask-sqlalchemy](https://github.com/mitsuhiko/flask-sqlalchemy) [![GitHub stars](https://img.shields.io/github/stars/mitsuhiko/flask-sqlalchemy.svg?style=social&label=Star)](https://github.com/mitsuhiko/flask-sqlalchemy)
 
 [SQLAlchemy](http://www.sqlalchemy.org/)
