@@ -18,8 +18,8 @@ db = SQLAlchemy(app)
 # Define our table for blog entries, aka posts 
 class Entry(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    title = db.Column(db.String(80), unique=True)
-    text = db.Column(db.String(120), unique=True)
+    title = db.Column(db.String(80))
+    text = db.Column(db.String(240))
 
     def __init__(self, title, text):
         self.title = title
