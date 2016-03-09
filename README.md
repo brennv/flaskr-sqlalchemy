@@ -1,4 +1,4 @@
-![travisCI](https://travis-ci.org/brennan-v-/flaskr-sqlalchemy.svg) [![Codecov](https://img.shields.io/codecov/c/github/brennan-v-/flaskr-sqlalchemy.svg)](https://codecov.io/github/brennan-v-/flaskr-sqlalchemy?branch=master)
+![travisCI](https://travis-ci.org/brennv/flaskr-sqlalchemy.svg) [![Codecov](https://img.shields.io/codecov/c/github/brennv/flaskr-sqlalchemy.svg)](https://codecov.io/github/brennv/flaskr-sqlalchemy?branch=master)
  ![pythons](https://img.shields.io/badge/python-2.7%2C%203.3%2C%203.4%2C%203.5%2C%203.5--dev-blue.svg)
 
                          / flaskr-sqlalchemy /
@@ -14,7 +14,7 @@
 
       1. clone the repo and step into it
 
-          git clone git@github.com:brennan-v-/flaskr-sqlalchemy.git
+          git clone git@github.com:brennv/flaskr-sqlalchemy.git
           cd flaskr-sqlalchemy
 
       2. create a virtual environment and install packages
